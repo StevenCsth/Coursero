@@ -1,0 +1,5 @@
+.env
+init_db.sql
+Vagrantfile
+info.php
+.vagrant
